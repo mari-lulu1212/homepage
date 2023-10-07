@@ -1,0 +1,26 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/79/01/d6/7901d654235b51919e07de34aeb862ce.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 300px;
+}
+
+.cabeçalho {
+    font-size: 70px;
+    color: rgba(247, 244, 244, 0.87);
+    margin-top: 100px;
+    text-align: center;
+}
+
+.tabela {
+    width: 1000px;
+    height: 500px;
+    font-size: 50px;
+    margin-top: 220px;
+    margin-left: 380px;
+    border: 20px solid rgb(201, 108, 201);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+.fundo {
+    background-color: plum;
+}

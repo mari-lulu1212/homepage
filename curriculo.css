@@ -1,0 +1,20 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/79/01/d6/7901d654235b51919e07de34aeb862ce.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 300px;
+}
+
+.cabeçalho {
+    font-size: 70px;
+    color: rgba(247, 244, 244, 0.87);
+    margin-top: 100px;
+    text-align: center;
+}
+
+.foto {
+    margin-top: 200px;
+    margin-left: 570px;
+    width: 30vw;
+    height: 80vh;
+    object-fit: cover;
+}

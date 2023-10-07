@@ -1,0 +1,52 @@
+body {
+    background-image: url(https://i.pinimg.com/originals/79/01/d6/7901d654235b51919e07de34aeb862ce.jpg);
+    background-repeat: no-repeat;
+    background-size: 2000px 300px;
+}
+
+.cabeçalho {
+    font-size: 70px;
+    color: rgba(247, 244, 244, 0.87);
+    text-align: center;
+    margin-top: 100px;
+}
+
+.conteiner {
+    align-items: center;
+    justify-content: center;
+    display: flex;
+
+}
+
+.vídeo {
+    margin-top: 100px;
+    margin-left: 90px;
+}
+
+.descrição {
+    margin-left: 100px;
+    margin-top: 100px;
+}
+
+.vida {
+    border: 30px solid greenyellow;
+    border-radius: 20px;
+    background-color: greenyellow;
+    margin-bottom: 100px;
+    text-align: justify;
+}
+
+.faculdade {
+    border: 30px solid yellow;
+    border-radius: 20px;
+    background-color: yellow;
+    margin-bottom: 100px;
+    text-align: justify;
+}
+
+.trabalho {
+    border: 30px solid purple;
+    border-radius: 20px;
+    background-color: purple;
+    text-align: justify;
+}
