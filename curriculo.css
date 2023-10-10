@@ -13,8 +13,8 @@ body {
 
 .foto {
     margin-top: 200px;
-    margin-left: 570px;
-    width: 30vw;
-    height: 80vh;
+    margin-left: 450px;
+    width: 40vw;
+    height: 120vh;
     object-fit: cover;
 }
